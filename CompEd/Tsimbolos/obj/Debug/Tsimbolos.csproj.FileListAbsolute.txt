@@ -1,0 +1,21 @@
+E:\Bibliotecas\programacion\C#\CompEd\Tsimbolos\bin\Debug\Tsimbolos.dll
+E:\Bibliotecas\programacion\C#\CompEd\Tsimbolos\bin\Debug\Tsimbolos.pdb
+E:\Bibliotecas\programacion\C#\CompEd\Tsimbolos\obj\Debug\Tsimbolos.dll
+E:\Bibliotecas\programacion\C#\CompEd\Tsimbolos\obj\Debug\Tsimbolos.pdb
+E:\Bibliotecas\programacion\C#\CompEd\Tsimbolos\obj\Debug\Tsimbolos.csprojResolveAssemblyReference.cache
+E:\Bibliotecas\programacion\C#\CompEd\Tsimbolos\bin\Debug\ManejoDeErrores.dll
+E:\Bibliotecas\programacion\C#\CompEd\Tsimbolos\bin\Debug\ManejoDeErrores.pdb
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\Tsimbolos\bin\Debug\Tsimbolos.dll
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\Tsimbolos\bin\Debug\Tsimbolos.pdb
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\Tsimbolos\bin\Debug\ManejoDeErrores.dll
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\Tsimbolos\bin\Debug\ManejoDeErrores.pdb
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\Tsimbolos\obj\Debug\Tsimbolos.csprojResolveAssemblyReference.cache
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\Tsimbolos\obj\Debug\Tsimbolos.dll
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\Tsimbolos\obj\Debug\Tsimbolos.pdb
+C:\Users\user\Desktop\CompEd\Tsimbolos\bin\Debug\Tsimbolos.dll
+C:\Users\user\Desktop\CompEd\Tsimbolos\bin\Debug\Tsimbolos.pdb
+C:\Users\user\Desktop\CompEd\Tsimbolos\bin\Debug\ManejoDeErrores.dll
+C:\Users\user\Desktop\CompEd\Tsimbolos\bin\Debug\ManejoDeErrores.pdb
+C:\Users\user\Desktop\CompEd\Tsimbolos\obj\Debug\Tsimbolos.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\CompEd\Tsimbolos\obj\Debug\Tsimbolos.dll
+C:\Users\user\Desktop\CompEd\Tsimbolos\obj\Debug\Tsimbolos.pdb

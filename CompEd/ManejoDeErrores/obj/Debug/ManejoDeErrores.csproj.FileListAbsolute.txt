@@ -1,0 +1,15 @@
+E:\Bibliotecas\programacion\C#\CompEd\ManejoDeErrores\bin\Debug\ManejoDeErrores.dll
+E:\Bibliotecas\programacion\C#\CompEd\ManejoDeErrores\bin\Debug\ManejoDeErrores.pdb
+E:\Bibliotecas\programacion\C#\CompEd\ManejoDeErrores\obj\Debug\ManejoDeErrores.csprojResolveAssemblyReference.cache
+E:\Bibliotecas\programacion\C#\CompEd\ManejoDeErrores\obj\Debug\ManejoDeErrores.dll
+E:\Bibliotecas\programacion\C#\CompEd\ManejoDeErrores\obj\Debug\ManejoDeErrores.pdb
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\ManejoDeErrores\bin\Debug\ManejoDeErrores.dll
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\ManejoDeErrores\bin\Debug\ManejoDeErrores.pdb
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\ManejoDeErrores\obj\Debug\ManejoDeErrores.csprojResolveAssemblyReference.cache
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\ManejoDeErrores\obj\Debug\ManejoDeErrores.dll
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\ManejoDeErrores\obj\Debug\ManejoDeErrores.pdb
+C:\Users\user\Desktop\CompEd\ManejoDeErrores\bin\Debug\ManejoDeErrores.dll
+C:\Users\user\Desktop\CompEd\ManejoDeErrores\bin\Debug\ManejoDeErrores.pdb
+C:\Users\user\Desktop\CompEd\ManejoDeErrores\obj\Debug\ManejoDeErrores.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\CompEd\ManejoDeErrores\obj\Debug\ManejoDeErrores.dll
+C:\Users\user\Desktop\CompEd\ManejoDeErrores\obj\Debug\ManejoDeErrores.pdb
